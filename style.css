@@ -10,3 +10,19 @@ header{
     font-size: 2rem;
     padding: 0.5em 1em;
 }
+
+section{
+    background-color: olivedrab;
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+}
+main{
+    text-align: center;
+    font-style: italic;
+    font-size: 4.5rem;
+    padding-top: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    background-color: olivedrab;
+}
