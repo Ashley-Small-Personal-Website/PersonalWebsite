@@ -61,7 +61,7 @@ textarea {
   height: 100px;
 }
 
-#submit {
+.contact-btn {
   margin-top: 20px;
   width: 80px;
   height: 40px;
